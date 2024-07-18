@@ -2,7 +2,7 @@
 
 using namespace std;
 
-/*int main()
+int main()
 {
     int number;
     cout << "Enter an integer: ";
@@ -10,10 +10,10 @@ using namespace std;
     cout << "You entered: " << number << endl;
     system("pause");
     return 0;
-}*/
+}
 
 
-int main()
+/*int main()
 {
     int dividend, divisor, quotient, remainder;
     cout << "Enter dividend: ";
@@ -26,4 +26,4 @@ int main()
     cout << "Remainder = " << remainder << endl;
     system("pause");
     return 0;
-}
+}*/
